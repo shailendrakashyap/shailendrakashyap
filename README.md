@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-<div>
 <img src="https://avatars.githubusercontent.com/u/46565698" width="50px" height="50px"/>
-Hi! I'm <i><b>Shailendra Kashyap</b></i>
-</div>
+### I'm Shailendra Kashyap
+
 
 <!--
 **shailendrakashyap/shailendrakashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
