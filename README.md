@@ -1,6 +1,6 @@
-### Hi there 👋
-<img src="https://avatars.githubusercontent.com/u/46565698" width="50px" height="50px"/>
-### I'm Shailendra Kashyap
+### Hi there 👋  I'm **Shailendra Kashyap**
+![Alt text](https://avatars.githubusercontent.com/u/46565698 "my_profile_pic")
+
 
 
 <!--
