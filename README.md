@@ -1,3 +1,14 @@
+---
+```
+Visitor Count
+```
+<a href="https://github.com/shailendrakashyap/shailendrakashyap">
+  <img align="center" src="https://count.getloli.com/get/@:shailendrakashyap" alt="Shailendra's GitHub Visitor Count" />
+</a> 
+
+
+
+
 ### Hi there 👋  Visitor from across the 🌍
 ### I Don't Know, 🤔 how you ended up here, 
 ## 🧐 But 
@@ -7,9 +18,10 @@
 <!-- ![Alt text](https://avatars.githubusercontent.com/u/46565698 "my_profile_pic")  -->
 
 
-
 <!--
 **shailendrakashyap/shailendrakashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://profile-summary-for-github.com/user/shailendrakashyap/
 
 Here are some ideas to get you started:
 
