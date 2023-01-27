@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; Here are MY GitHub Stats
 
 <a href="https://github.com/shailendrakashyap/shailendrakashyap">
-  <img align="center" src="https://user-images.githubusercontent.com/46565698/213866478-f392e9a1-ea5e-4022-bf02-ee3ef2bff0d1.png" alt="Shailendra's GitHub Stats" />
+  <img align="center" src="https://user-images.githubusercontent.com/46565698/215111479-573e8fcf-6365-43a7-b179-fec6f7bc1681.png" alt="Shailendra's GitHub Stats" />
 </a> 
 
 <a href="https://github.com/shailendrakashyap/shailendrakashyap">
