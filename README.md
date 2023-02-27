@@ -3,7 +3,7 @@
 Visitor Count
 ```
 <a href="https://github.com/shailendrakashyap/shailendrakashyap">
-  <img align="center" src="https://count.getloli.com/get/@:shailendrakashyap" alt="Shailendra's GitHub Visitor Count" />
+  <img align="center" src="https://count.getloli.com/get/@:shailendrakashyap?theme=gelbooru" alt="Shailendra's GitHub Visitor Count" />
 </a> 
 
 
