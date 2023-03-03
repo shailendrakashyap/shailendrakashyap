@@ -2,7 +2,7 @@
 ```
 Visitor Count
 ```
-<a href="https://github.com/shailendrakashyap/shailendrakashyap">
+<a href="#">
   <img align="center" src="https://count.getloli.com/get/@:shailendrakashyap?theme=gelbooru" alt="Shailendra's GitHub Visitor Count" />
 </a> 
 
@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; Here are MY GitHub Stats
 
-<a href="https://github.com/shailendrakashyap/shailendrakashyap">
+<a href="#">
   <img align="center" src="https://user-images.githubusercontent.com/46565698/215111479-573e8fcf-6365-43a7-b179-fec6f7bc1681.png" alt="Shailendra's GitHub Stats" />
 </a> 
 
-<a href="https://github.com/shailendrakashyap/shailendrakashyap">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailendrakashyap&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=100" />
 </a> 
 
-<a href="https://github.com/shailendrakashyap/shailendrakashyap">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=shailendrakashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shailendra's GitHub Stats" width="707.8" />
+<a href="#">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=shailendrakashyap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shailendra's GitHub Stats" width="700" />
 </a>
