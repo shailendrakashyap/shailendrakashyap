@@ -1,12 +1,11 @@
+
+- Web-Dev Projects: Simple, Bootstrap, React, Gatsby ( includes developer portfolios, blogs, company websites, individual websites )
+- DevOps Projects: Using ZenHub
+- Cyber Security: GRC (Governance, risk management, and compliance) & Advisor
 ---
-```
-Visitor Count
-```
-<a href="#">
-  <img align="center" src="https://count.getloli.com/get/@:shailendrakashyap?theme=gelbooru" alt="Shailendra's GitHub Visitor Count" />
-</a> 
-
-
+- I have done courses from some of the top universities in the world. 
+- To check my profile, go to my linkedin profile [@shailendrakashyap](https://www.linkedin.com/in/shailendrakashyap/)
+---
 
 
 ### Hi there 👋  Visitor from across the 🌍
