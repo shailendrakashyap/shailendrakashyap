@@ -10,8 +10,8 @@
 
 ### Hi there 👋  Visitor from across the 🌍
 ### I Don't Know, 🤔 how you ended up here, 
-## 🧐 But 
-### I humbly invite you to contribute to my GitHub repos 🤗
+## 🧐 But What I do know is that you being here is fate.
+### I invite you to contribute to my code, suggest changes file issues and reuse the open source code instead of reinventing the wheels. 🤗
 -  Suggest Edits, Improve my code, collaborate with me and much more
 
 <!-- ![Alt text](https://avatars.githubusercontent.com/u/46565698 "my_profile_pic")  -->
